@@ -9,6 +9,7 @@ function categoriaspeb()
 };
 
 
+
 function categoriaanimal()
 {
   window.location.replace("categoria_animal.html")
